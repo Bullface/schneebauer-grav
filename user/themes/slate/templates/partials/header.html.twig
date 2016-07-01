@@ -1,0 +1,14 @@
+
+<header id="header" class="alt">
+    <h1><a href="index.html">Slate <span>by Pixelarity</span></a></h1>
+    <nav id="nav">
+        <ul>
+            {% for page in pages.children %}
+                    {% if page.visible %}
+                    {% set current_page = (page.active or page.activeChild) ? 'active' : '' %}
+                    <li class="{{ current_page }}"><a href="{{ page.url }}">{{ page.menu }}</a></li>
+                    {% endif %}
+                    {% endfor %}
+        </ul>
+    </nav>
+</header>

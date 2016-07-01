@@ -1,0 +1,11 @@
+email: josef.guet@yahoo.de
+fullname: 'Josef Gütlinger'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$h0XbUfrNkZkrhGRXMMbDROBNPqbLFITob0eoTyeMUXZEkoT0p4Jby

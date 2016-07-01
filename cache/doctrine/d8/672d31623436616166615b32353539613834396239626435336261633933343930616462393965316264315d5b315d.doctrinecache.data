@@ -1,0 +1,126 @@
+1467999434
+a:2:{s:7:"content";s:5319:"			<section id="banner">
+				<article>
+					<img src="images/slide01.jpg" alt="" />
+					<div class="inner">
+						<h2><a href="#">Magna tempus. Sed feugiat.</a></h2>
+					</div>
+				</article>
+				<article>
+					<img src="images/slide02.jpg" alt="" />
+					<div class="inner">
+						<h2><a href="#">Aliquam veroeros nullam.</a></h2>
+					</div>
+				</article>
+				<article>
+					<img src="images/slide03.jpg"  alt="" />
+					<div class="inner">
+						<h2><a href="#">Consequat dolore adipiscing.</a></h2>
+					</div>
+				</article>
+			</section>
+
+		<!-- One -->
+			<section id="one" class="wrapper major-pad">
+				<div class="inner">
+					<section class="spotlight">
+						<div class="content">
+							<h2>test</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id interdum magna, ultricies aliquet curabitur sed metus pellentesque, ornare sapien quis.</p>
+						</div>
+						<span class="image"><img src="images/pic07.jpg" alt="" /></span>
+					</section>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="wrapper content-pad">
+				<div class="inner">
+					<div class="features">
+						<section class="content">
+							<span class="icon-wrapper major"><span class="icon fa-pencil"></span></span>
+							<h3>Praesent sed donec</h3>
+							<p>Proin consequat luctus elit, nec blandit tellus ut volutpat magna. mi euismod elementum lectus et consequat etiam lorem etiam sed tempus. Feugiat veroeros lorem ipsum dolor.</p>
+						</section>
+						<section class="content">
+							<span class="icon-wrapper major"><span class="icon fa-paper-plane"></span></span>
+							<h3>Commodo mollis</h3>
+							<p>Pellentesque, ornare sapien quis, tristique ante. Proin nec facilisis odio. Integer elementum nunc nec leo interdum, non tristique eros laoreet. Integer vitae erat suscipit commodo.</p>
+						</section>
+						<section class="content">
+							<span class="icon-wrapper major"><span class="icon fa-cloud"></span></span>
+							<h3>Magnis curabitur</h3>
+							<p>Duis vulputate sit amet metus quis facilisis. Sed dapibus neque erat fringilla tincidunt. Nullam sapien et sapien, iaculis ac varius ultrices nec metus. Aenean ultricies magna.</p>
+						</section>
+					</div>
+				</div>
+			</section>
+
+		<!-- Three -->
+			<section id="three" class="wrapper style2">
+				<div class="inner">
+					<h2>Etiam sed tellus</h2>
+					<div class="posts">
+						<section class="post">
+							<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+							<div class="content">
+								<h3>Congue portitor</h3>
+								<p>Aenean ultricies magna non sapien rhoncus, ac ullamcorper lorem convallis. Quisque at venenatis nisi, amet finibus mauris. Sed sodales ultricies eros, sit amet sodales sapien.</p>
+								<ul class="actions">
+									<li><a href="#" class="button">More</a></li>
+								</ul>
+							</div>
+						</section>
+						<section class="post">
+							<span class="image"><img src="images/pic02.jpg" alt="" /></span>
+							<div class="content">
+								<h3>Duis nisl euismod</h3>
+								<p>Ultrices nec metus. Aenean ultricies magna et sapien rhoncus ac ullamcorper lorem convallis. Quisque at venenatis nisi amet finibus mauris. Sed sodales ultricies magna etiam.</p>
+								<ul class="actions">
+									<li><a href="#" class="button">More</a></li>
+								</ul>
+							</div>
+						</section>
+						<section class="post">
+							<span class="image"><img src="images/pic03.jpg" alt="" /></span>
+							<div class="content">
+								<h3>Elementum auctor</h3>
+								<p>Quis interdum. Lorem quis lacus justo. Sed libero condimentum vehicula sem vel, mattis amet mauris. Nullam lacinia sit amet felis vel vestibulum. Morbi aliquam aenean.</p>
+								<ul class="actions">
+									<li><a href="#" class="button">More</a></li>
+								</ul>
+							</div>
+						</section>
+						<section class="post">
+							<span class="image"><img src="images/pic04.jpg" alt="" /></span>
+							<div class="content">
+								<h3>Urna vel lacinia</h3>
+								<p>Integer vel tincidunt lacus. Nulla augue nunc, eleifend quis leo ac, maximus interdum tellus. Etiam at vestibulum felis, id efficitur risus. Praesent ac nulla ex. Duis elementum.</p>
+								<ul class="actions">
+									<li><a href="#" class="button">More</a></li>
+								</ul>
+							</div>
+						</section>
+						<section class="post">
+							<span class="image"><img src="images/pic05.jpg" alt="" /></span>
+							<div class="content">
+								<h3>Neque et suscipit</h3>
+								<p>Libero condimentum, vehicula sem vel, mattis mauris. Nullam lacinia sit amet felis vel vestibulum. Morbi in aliquam est. Aenean dapibus porttitor nulla ultrices venenatis.</p>
+								<ul class="actions">
+									<li><a href="#" class="button">More</a></li>
+								</ul>
+							</div>
+						</section>
+						<section class="post">
+							<span class="image"><img src="images/pic06.jpg" alt="" /></span>
+							<div class="content">
+								<h3>Vestibulum placerat</h3>
+								<p>Tristique tellus et ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent mauris risus, pellentesque eu leo non, tincidunt.</p>
+								<ul class="actions">
+									<li><a href="#" class="button">More</a></li>
+								</ul>
+							</div>
+						</section>
+					</div>
+				</div>
+			</section>";s:12:"content_meta";N;}
