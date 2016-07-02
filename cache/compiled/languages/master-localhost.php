@@ -1,193 +1,193 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
-    'timestamp' => 1467385053,
-    'checksum' => '695b057f0a8dd094b9f8f4e3b973c5e0',
+    'timestamp' => 1467474658,
+    'checksum' => 'dc73189a094dc2aaf7283bb561e6fa28',
     'files' => [
         'system/languages' => [
             'cs' => [
                 'file' => 'system/languages/cs.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'de' => [
                 'file' => 'system/languages/de.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'el' => [
                 'file' => 'system/languages/el.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'en' => [
                 'file' => 'system/languages/en.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'es' => [
                 'file' => 'system/languages/es.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'fr' => [
                 'file' => 'system/languages/fr.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'hr' => [
                 'file' => 'system/languages/hr.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'hu' => [
                 'file' => 'system/languages/hu.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'it' => [
                 'file' => 'system/languages/it.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'ja' => [
                 'file' => 'system/languages/ja.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'lt' => [
                 'file' => 'system/languages/lt.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'nb' => [
                 'file' => 'system/languages/nb.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'nl' => [
                 'file' => 'system/languages/nl.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'no' => [
                 'file' => 'system/languages/no.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'pl' => [
                 'file' => 'system/languages/pl.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'pt' => [
                 'file' => 'system/languages/pt.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'ro' => [
                 'file' => 'system/languages/ro.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'ru' => [
                 'file' => 'system/languages/ru.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'sv' => [
                 'file' => 'system/languages/sv.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'tr' => [
                 'file' => 'system/languages/tr.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ]
         ],
         'user/plugins' => [
-            'plugins/email' => [
-                'file' => 'user/plugins/email/languages.yaml',
-                'modified' => 1467385051
-            ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/languages.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398581
+            ],
+            'plugins/email' => [
+                'file' => 'user/plugins/email/languages.yaml',
+                'modified' => 1467398580
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/languages.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ]
         ],
         'user/plugins/admin/languages' => [
             'cs' => [
                 'file' => 'user/plugins/admin/languages/cs.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'cy' => [
                 'file' => 'user/plugins/admin/languages/cy.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'de' => [
                 'file' => 'user/plugins/admin/languages/de.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'en' => [
                 'file' => 'user/plugins/admin/languages/en.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'es' => [
                 'file' => 'user/plugins/admin/languages/es.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'fi' => [
                 'file' => 'user/plugins/admin/languages/fi.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'fr' => [
                 'file' => 'user/plugins/admin/languages/fr.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'hr' => [
                 'file' => 'user/plugins/admin/languages/hr.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'hu' => [
                 'file' => 'user/plugins/admin/languages/hu.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'it' => [
                 'file' => 'user/plugins/admin/languages/it.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'ja' => [
                 'file' => 'user/plugins/admin/languages/ja.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'lt' => [
                 'file' => 'user/plugins/admin/languages/lt.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'nl' => [
                 'file' => 'user/plugins/admin/languages/nl.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'no' => [
                 'file' => 'user/plugins/admin/languages/no.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'pl' => [
                 'file' => 'user/plugins/admin/languages/pl.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'pt' => [
                 'file' => 'user/plugins/admin/languages/pt.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'ru' => [
                 'file' => 'user/plugins/admin/languages/ru.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'sv' => [
                 'file' => 'user/plugins/admin/languages/sv.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'tlh' => [
                 'file' => 'user/plugins/admin/languages/tlh.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'tr' => [
                 'file' => 'user/plugins/admin/languages/tr.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'uk' => [
                 'file' => 'user/plugins/admin/languages/uk.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'zh' => [
                 'file' => 'user/plugins/admin/languages/zh.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ]
         ]
     ],
@@ -1905,10 +1905,6 @@ Pfad: `%2$s`
                 'PROXY_URL_HELP' => 'Enter the proxy HOST or IP and PORT',
                 'NEEDS_GRAV_1_1' => '<i class="fa fa-exclamation-triangle"></i> <strong>You are running Grav v%s</strong>. You must update to the latest <strong>Admin plugin v1.1.x</strong> in order to ensure compatibility. This may require switching to <strong>Testing GPM releases</strong> in the System configuration.'
             ],
-            'PLUGIN_EMAIL' => [
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Please configure a \'to\' address in the Email Plugin settings, or in the form',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Please configure a \'from\' address in the Email Plugin settings, or in the form'
-            ],
             'PLUGIN_LOGIN' => [
                 'USERNAME' => 'Username',
                 'PASSWORD' => 'Password',
@@ -1995,6 +1991,10 @@ Pfad: `%2$s`
                 'OPTIONS' => 'Options',
                 'EMAIL_VALIDATION_MESSAGE' => 'Must be a valid email address',
                 'PASSWORD_VALIDATION_MESSAGE' => 'Password must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters'
+            ],
+            'PLUGIN_EMAIL' => [
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Please configure a \'to\' address in the Email Plugin settings, or in the form',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Please configure a \'from\' address in the Email Plugin settings, or in the form'
             ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Form not validated. One or more required fields are missing.',
@@ -3342,10 +3342,6 @@ Path: `%2$s`
                 'REVERSE_PROXY_HELP' => 'Activer si vous êtes derrière un proxy inversé et que vous rencontrez des problèmes avec les URL contenant des ports incorrects.',
                 'INVALID_FRONTMATTER_COULD_NOT_SAVE' => 'Frontmatter non valide, enregistrement impossible'
             ],
-            'PLUGIN_EMAIL' => [
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Veuillez configurer une adresse de \'destinataire\' dans les paramètres du Plugin ou dans le formulaire.',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Veuillez configurer une adresse \'d\'expéditeur\' dans les paramètres du Plugin ou dans le formulaire.'
-            ],
             'PLUGIN_LOGIN' => [
                 'USERNAME' => 'Nom d\'utilisateur',
                 'PASSWORD' => 'Mot de passe',
@@ -3432,6 +3428,10 @@ Path: `%2$s`
                 'OPTIONS' => 'Options',
                 'EMAIL_VALIDATION_MESSAGE' => 'Doit-être une adresse e-mail valide',
                 'PASSWORD_VALIDATION_MESSAGE' => 'Le mot de passe doit-être composé d\'au moins un chiffre, une majuscule et une minuscule, et au moins 8 caractères'
+            ],
+            'PLUGIN_EMAIL' => [
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Veuillez configurer une adresse de \'destinataire\' dans les paramètres du Plugin ou dans le formulaire.',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Veuillez configurer une adresse \'d\'expéditeur\' dans les paramètres du Plugin ou dans le formulaire.'
             ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formulaire non validé. Un ou plusieurs champs obligatoires sont manquants.',
@@ -8613,6 +8613,6 @@ Path: `%2$s`
                 6 => 'søndag'
             ]
         ],
-        'checksum' => '695b057f0a8dd094b9f8f4e3b973c5e0'
+        'checksum' => 'dc73189a094dc2aaf7283bb561e6fa28'
     ]
 ];

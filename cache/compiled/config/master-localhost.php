@@ -1,104 +1,78 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1467394466,
-    'checksum' => 'f471a374cd248e36e58a004cb1b9f63d',
+    'timestamp' => 1467399014,
+    'checksum' => 'a752cae367c4cc4deaef6a135d3befdd',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1467384973
+                'modified' => 1467398580
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1467384973
+                'modified' => 1467398580
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
-                'modified' => 1467384973
+                'modified' => 1467398580
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1467394463
+                'modified' => 1467398580
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ]
         ],
         'user/plugins' => [
-            'plugins/email' => [
-                'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1467385051
-            ],
-            'plugins/problems' => [
-                'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1467385053
-            ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1461740848
-            ],
-            'plugins/error' => [
-                'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398581
             ],
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
+            ],
+            'plugins/error' => [
+                'file' => 'user/plugins/error/error.yaml',
+                'modified' => 1467398580
+            ],
+            'plugins/problems' => [
+                'file' => 'user/plugins/problems/problems.yaml',
+                'modified' => 1467398581
+            ],
+            'plugins/email' => [
+                'file' => 'user/plugins/email/email.yaml',
+                'modified' => 1467398580
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1461740848
+                'modified' => 1467398580
             ]
         ]
     ],
     'data' => [
         'plugins' => [
-            'email' => [
-                'enabled' => true,
-                'from' => NULL,
-                'from_name' => NULL,
-                'to' => NULL,
-                'to_name' => NULL,
-                'mailer' => [
-                    'engine' => 'mail',
-                    'smtp' => [
-                        'server' => 'localhost',
-                        'port' => 25,
-                        'encryption' => 'none',
-                        'user' => '',
-                        'password' => ''
-                    ],
-                    'sendmail' => [
-                        'bin' => '/usr/sbin/sendmail'
-                    ]
-                ],
-                'content_type' => 'text/html',
-                'debug' => false
-            ],
-            'problems' => [
-                'enabled' => true,
-                'built_in_css' => true
-            ],
             'login' => [
                 'enabled' => true,
                 'built_in_css' => true,
@@ -179,12 +153,6 @@ return [
                     ]
                 ]
             ],
-            'error' => [
-                'enabled' => true,
-                'routes' => [
-                    404 => '/error'
-                ]
-            ],
             'admin' => [
                 'enabled' => true,
                 'route' => '/admin',
@@ -214,6 +182,38 @@ return [
                         'visitors' => 20
                     ]
                 ]
+            ],
+            'error' => [
+                'enabled' => true,
+                'routes' => [
+                    404 => '/error'
+                ]
+            ],
+            'problems' => [
+                'enabled' => true,
+                'built_in_css' => true
+            ],
+            'email' => [
+                'enabled' => true,
+                'from' => NULL,
+                'from_name' => NULL,
+                'to' => NULL,
+                'to_name' => NULL,
+                'mailer' => [
+                    'engine' => 'mail',
+                    'smtp' => [
+                        'server' => 'localhost',
+                        'port' => 25,
+                        'encryption' => 'none',
+                        'user' => '',
+                        'password' => ''
+                    ],
+                    'sendmail' => [
+                        'bin' => '/usr/sbin/sendmail'
+                    ]
+                ],
+                'content_type' => 'text/html',
+                'debug' => false
             ],
             'form' => [
                 'enabled' => true,
